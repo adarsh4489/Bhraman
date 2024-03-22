@@ -184,7 +184,7 @@ align-items:center ;
     margin: 30px auto;
 }
 .content-col .btn{
-    margin-left: -300px;
+    margin: 0px auto;
 }
 .footer{
     width: 100%;
